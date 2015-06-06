@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="white">#FFFFFF</color>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_activity_main_choosing">MainChoosingActivity</string>
+    <string name="title_activity_attendance_page">AttendancePage</string>
+</resources>
